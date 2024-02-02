@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.swing.plaf.synth.SynthOptionPaneUI"/>
+    <fullyQualifiedTypeName name="AreaMain"/>
+    <fullyQualifiedTypeName name="books"/>
+    <fullyQualifiedTypeName name="Operation"/>
+    <fullyQualifiedTypeName name="MatrixOperation"/>
+    <fullyQualifiedTypeName name="java.lang.Boolean"/>
+    <fullyQualifiedTypeName name="Books"/>
+    <fullyQualifiedTypeName name="BookInfo"/>
+    <fullyQualifiedTypeName name="Product"/>
+    <fullyQualifiedTypeName name="ShopInfo"/>
+    <fullyQualifiedTypeName name="LogicMain1"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="Employee"/>
+    <fullyQualifiedTypeName name="Manager"/>
+    <fullyQualifiedTypeName name="Developer"/>
+    <fullyQualifiedTypeName name="Son"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+</qualifiedTypeNameHistroy>

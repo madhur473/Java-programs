@@ -1,0 +1,11 @@
+MemberFilterActionGroup.HierarchyMethodView.1=true
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="Employee"><rhs name\="Employee"/><rhs name\="Manager"/><rhs name\="Developer"/></lhs><lhs name\="java.util.Iterator"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.io.Closeable"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="java.util.Scanner"/></lhs><lhs name\="books"><rhs name\="books"/></lhs><lhs name\="Operation"><rhs name\="Operation"/></lhs><lhs name\="MatrixOperation"><rhs name\="MatrixOperation"/></lhs><lhs name\="Product"><rhs name\="Product"/></lhs><lhs name\="ShopInfo"><rhs name\="ShopInfo"/></lhs><lhs name\="Books"><rhs name\="Books"/></lhs><lhs name\="BookInfo"><rhs name\="BookInfo"/></lhs><lhs name\="LogicMain1"><rhs name\="LogicMain1"/></lhs><lhs name\="Manager"><rhs name\="Manager"/></lhs><lhs name\="Developer"><rhs name\="Developer"/></lhs><lhs name\="Father"><rhs name\="Son"/></lhs><lhs name\="GrandFather"><rhs name\="Son"/></lhs><lhs name\="Son"><rhs name\="Son"/></lhs></history>
+content_assist_number_of_computers=17
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=22
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

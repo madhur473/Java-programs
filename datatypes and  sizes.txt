@@ -1,0 +1,14 @@
+In java we have 8 Primmitive data types:
+------------------------------------------
+data types: 			size
+byte				1
+short				2
+int				4
+long				8
+
+float 				4
+double				8
+
+char 				2(unicode)
+
+boolean 			1 bits

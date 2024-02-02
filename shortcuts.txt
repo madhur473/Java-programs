@@ -1,0 +1,13 @@
+syso (strl+space) =>System.out.println(); 
+To align program user (ctrl+i)
+i= indentation
+Sopln("addition"+add);
++ is used for concatination
+
+-------------------------------------
+
+For taking input from user 
+Use Scanner Class
+use package: import java.util.Scanner;
+Scanner sc = new Scanner(system.in);
+int n1 = sc.nextInt();
