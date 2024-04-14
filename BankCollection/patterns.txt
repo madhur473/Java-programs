@@ -1,0 +1,7 @@
+Iteration 1:
+Possible word combinations for this iteration: 1
+ -> Iteration 1 took 0.0 seconds to complete and yielded 0 combinations as a result.
+
+
+The Apriori Algorithm finished after 0.25 seconds!
+

@@ -1,0 +1,4 @@
+Value type -> int arr[5]={1,2,3,4,5} 
+refrence type eg-> int arr[] =new int [5];
+
+arr is object in java !!!
