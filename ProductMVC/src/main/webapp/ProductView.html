@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Product</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f5f5f5;
+        margin: 0;
+        padding: 0;
+    }
+    form {
+        background-color: #fff;
+        max-width: 400px;
+        margin: 20px auto;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    input[type="text"] {
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        box-sizing: border-box;
+    }
+    input[type="submit"] {
+        width: 100%;
+        padding: 10px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+    input[type="submit"]:hover {
+        background-color: #0056b3;
+    }
+</style>
+</head>
+<body>
+<form action="ProductController">
+    <label for="prodId">Product Id:</label>
+    <input type="text" id="prodId" name="prodId"><br>
+    <label for="pName">Product Name:</label>
+    <input type="text" id="pName" name="pName"><br>
+    <label for="prodQty">Product Qty:</label>
+    <input type="text" id="prodQty" name="prodQty"><br>
+    <label for="prodPrice">Product Price:</label>
+    <input type="text" id="prodPrice" name="prodPrice"><br>
+    <input type="submit" value="Submit">
+</form>
+
+
+</body>
+</html>

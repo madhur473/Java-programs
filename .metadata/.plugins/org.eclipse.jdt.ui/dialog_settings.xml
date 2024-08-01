@@ -23,7 +23,7 @@
 	</section>
 	<section name="NewClassWizardPage">
 		<item key="create_constructor" value="false"/>
-		<item key="create_unimplemented" value="false"/>
+		<item key="create_unimplemented" value="true"/>
 	</section>
 	<section name="completion_proposal_size">
 	</section>
@@ -88,5 +88,7 @@
 	</section>
 	<section name="BuildPathsPropertyPage">
 		<item key="pageIndex" value="2"/>
+	</section>
+	<section name="BreadcrumbItemDropDown">
 	</section>
 </section>
